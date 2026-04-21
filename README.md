@@ -1,1 +1,1 @@
-#Rappresentazione grafica di un atomo 
+# Rappresentazione grafica di un atomo 
